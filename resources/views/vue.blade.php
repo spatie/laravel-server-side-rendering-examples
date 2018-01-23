@@ -23,7 +23,7 @@
             // Share the packages with the client script through a JS variable
             window.packages = @json($packages)
         </script>
-        <footer class="max-w-md mx-auto mt-12 mb-4 text-xs text-grey-light">
+        <footer class="max-w-md mx-auto px-8 mt-12 mb-4 text-xs text-grey-light">
             Created by <a href="https://spatie.be" target="_blank" class="text-grey" >spatie.be</a>
             using <a href="https://github.com/spatie/laravel-server-side-rendering" target="_blank" class="text-grey">spatie/laravel-server-side-rendering</a>
         </footer>
