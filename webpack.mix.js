@@ -18,6 +18,10 @@ mix
     .react('resources/assets/js/react/entry-client.js', 'public/js/react')
     .react('resources/assets/js/react/entry-server.js', 'public/js/react')
 
+    .postCss('resources/assets/css/app.css', 'public/css/app.css', [
+        require('tailwindcss')('./tailwind.js'),
+    ])
+
     .webpackConfig({
         resolve: {
             alias: {

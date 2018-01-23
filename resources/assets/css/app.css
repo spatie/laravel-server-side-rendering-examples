@@ -1,0 +1,17 @@
+@tailwind preflight;
+
+a {
+    color: inherit;
+}
+
+h1 {
+    @apply .font-extrabold;
+    @apply .leading-none;
+    @apply .mb-8;
+    @apply .text-lg;
+    @apply .text-orange;
+    @apply .tracking-wide;
+    @apply .uppercase;
+}
+
+@tailwind utilities;
