@@ -4,6 +4,8 @@ This repo contains examples of server-side rendered JavaScript SPAs rendered in 
 
 We've got a a `vue` + `vuex` + `vue-router` example and a very basic `react` + `react-router` example that will be expanded in the future.
 
+![](https://user-images.githubusercontent.com/1561079/35285451-b79f4fa8-005d-11e8-9f16-174778271f0b.png)
+
 ## Installation
 
 You can install the app locally like you'd install any other Laravel app.
