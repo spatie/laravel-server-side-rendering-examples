@@ -8,7 +8,7 @@
         <link rel="stylesheet" href="{{ mix('css/app.css') }}">
     </head>
     <body class="bg-paper font-sans leading-normal text-grey-darkest border-t-4 border-orange-light">
-        {!! ssr('js/vue/entry.js')->enabled()
+        {!! ssr('js/vue/entry.js')
 
             // Share the packages with the server script through context
             ->withContext('packages', $packages)
