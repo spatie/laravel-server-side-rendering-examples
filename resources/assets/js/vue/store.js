@@ -12,8 +12,7 @@ export default new Store({
     getters: {
         types: state => uniq(state.packages.map(p => p.type)),
 
-        packagesWithType: state => type =>
-            state.packages.filter(p => p.type === type),
+        packagesWithType: state => type => state.packages.filter(p => p.type === type),
     },
 
     mutations: {

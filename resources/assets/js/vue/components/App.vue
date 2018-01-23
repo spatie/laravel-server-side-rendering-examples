@@ -3,7 +3,7 @@
         <router-link
             :to="{ name: 'home' }"
             class="text-xs text-grey-light inline-block mb-2"
-            :class="{ invisible: this.$route.name === 'home' }"
+            :class="this.$route.name === 'home' ? 'invisible' : ''"
         >
             ← <span class="underline">Back</span>
         </router-link>
