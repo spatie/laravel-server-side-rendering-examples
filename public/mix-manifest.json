@@ -1,0 +1,6 @@
+{
+    "/js/react/entry-client.js": "/js/react/entry-client.js",
+    "/js/react/entry-server.js": "/js/react/entry-server.js",
+    "/js/vue/entry-server.js": "/js/vue/entry-server.js",
+    "/js/vue/entry-client.js": "/js/vue/entry-client.js"
+}

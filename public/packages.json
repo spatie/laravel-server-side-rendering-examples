@@ -1,0 +1,1012 @@
+[
+    {
+        "id": 1,
+        "name": "temporary-directory",
+        "description": "<p>A simple class to work with a temporary directory.<\/p>",
+        "url": "https:\/\/github.com\/spatie\/temporary-directory",
+        "documentation_url": null,
+        "blogpost_url": null,
+        "download_count": 335699,
+        "type": "php"
+    },
+    {
+        "id": 2,
+        "name": "laravel-mailable-test",
+        "description": "<p>An artisan command to easily test mailables.<\/p>",
+        "url": "https:\/\/github.com\/spatie\/laravel-mailable-test",
+        "documentation_url": null,
+        "blogpost_url": "https:\/\/murze.be\/2017\/01\/artisan-command-easily-test-mailables\/",
+        "download_count": 4957,
+        "type": "laravel"
+    },
+    {
+        "id": 3,
+        "name": "twitter-streaming-api",
+        "description": "<p>Easily work with the Twitter Streaming API in a Laravel app.<\/p>",
+        "url": "https:\/\/github.com\/spatie\/laravel-twitter-streaming-api",
+        "documentation_url": null,
+        "blogpost_url": "https:\/\/murze.be\/2017\/01\/easily-work-with-the-twitter-streaming-api-in-php\/",
+        "download_count": 6654,
+        "type": "laravel"
+    },
+    {
+        "id": 4,
+        "name": "twitter-streaming-api",
+        "description": "<p>Easily work with the Twitter Streaming API.<\/p>",
+        "url": "https:\/\/github.com\/spatie\/twitter-streaming-api",
+        "documentation_url": null,
+        "blogpost_url": "https:\/\/murze.be\/2017\/01\/easily-work-with-the-twitter-streaming-api-in-php\/",
+        "download_count": 6654,
+        "type": "php"
+    },
+    {
+        "id": 5,
+        "name": "laravel-migrate-fresh",
+        "description": "<p>An artisan command to build up a database from scratch.<\/p>",
+        "url": "https:\/\/github.com\/spatie\/laravel-migrate-fresh",
+        "documentation_url": null,
+        "blogpost_url": "https:\/\/murze.be\/2017\/01\/laravel-package-rebuild-database\/",
+        "download_count": 65058,
+        "type": "laravel"
+    },
+    {
+        "id": 6,
+        "name": "laravel-varnish",
+        "description": "<p>Making Varnish and Laravel play nice together.<\/p>",
+        "url": "https:\/\/github.com\/spatie\/laravel-varnish",
+        "documentation_url": null,
+        "blogpost_url": "https:\/\/murze.be\/2017\/01\/varnish-on-a-laravel-forge-server\/",
+        "download_count": 2442,
+        "type": "laravel"
+    },
+    {
+        "id": 7,
+        "name": "uptime-monitor-app",
+        "description": "<p>A PHP application to monitor uptime and ssl certificates.<\/p>",
+        "url": "https:\/\/github.com\/spatie\/uptime-monitor-app",
+        "documentation_url": null,
+        "blogpost_url": "https:\/\/murze.be\/2016\/12\/an-easy-to-install-uptime-monitor\/",
+        "download_count": 297,
+        "type": "php"
+    },
+    {
+        "id": 8,
+        "name": "fractalistic",
+        "description": "<p>A developer friendly wrapper around Fractal.<\/p>",
+        "url": "https:\/\/github.com\/spatie\/fractalistic",
+        "documentation_url": null,
+        "blogpost_url": "https:\/\/murze.be\/2016\/12\/developer-friendly-wrapper-around-fractal\/",
+        "download_count": 352926,
+        "type": "php"
+    },
+    {
+        "id": 9,
+        "name": "schema-org",
+        "description": "<p>A fluent builder Schema.org types and ld+json generator.<\/p>",
+        "url": "https:\/\/github.com\/spatie\/schema-org",
+        "documentation_url": null,
+        "blogpost_url": "https:\/\/murze.be\/2016\/12\/package-fluently-generate-schema-org-markup\/",
+        "download_count": 40207,
+        "type": "php"
+    },
+    {
+        "id": 10,
+        "name": "http-status-check",
+        "description": "<p>A CLI tool to crawl a website and check HTTP status codes.<\/p>",
+        "url": "https:\/\/github.com\/spatie\/laravel-uptime-monitor",
+        "documentation_url": null,
+        "blogpost_url": "https:\/\/murze.be\/2015\/11\/building-a-crawler-in-php\/",
+        "download_count": 2043,
+        "type": "php"
+    },
+    {
+        "id": 11,
+        "name": "laravel-uptime-monitor",
+        "description": "<p>A powerful and easy to configure uptime and ssl monitor.<\/p>",
+        "url": "https:\/\/github.com\/spatie\/laravel-uptime-monitor",
+        "documentation_url": "https:\/\/docs.spatie.be\/laravel-uptime-monitor",
+        "blogpost_url": "https:\/\/murze.be\/2016\/11\/an-uptime-and-ssl-certificate-monitor-written-in-php\/",
+        "download_count": 7576,
+        "type": "laravel"
+    },
+    {
+        "id": 12,
+        "name": "vue-save-state",
+        "description": "<p>A Vue mixin to save the state of a component to local storage.<\/p>",
+        "url": "https:\/\/github.com\/spatie\/vue-save-state",
+        "documentation_url": null,
+        "blogpost_url": null,
+        "download_count": null,
+        "type": "javascript"
+    },
+    {
+        "id": 13,
+        "name": "once",
+        "description": "<p>A magic memoization function.<\/p>",
+        "url": "https:\/\/github.com\/spatie\/once",
+        "documentation_url": null,
+        "blogpost_url": "https:\/\/murze.be\/2016\/11\/magic-memoization-function\/",
+        "download_count": 947,
+        "type": "php"
+    },
+    {
+        "id": 14,
+        "name": "laravel-tags",
+        "description": "<p>A powerful tagging package. Batteries included.<\/p>",
+        "url": "https:\/\/github.com\/spatie\/laravel-tags",
+        "documentation_url": "https:\/\/docs.spatie.be\/laravel-tags\/v1\/introduction",
+        "blogpost_url": "https:\/\/murze.be\/2016\/10\/laravel-tags\/",
+        "download_count": 40180,
+        "type": "laravel"
+    },
+    {
+        "id": 15,
+        "name": "laravel-missing-page-redirector",
+        "description": "<p>Retain your SEO value when moving sites by using proper redirects.<\/p>",
+        "url": "https:\/\/github.com\/spatie\/laravel-missing-page-redirector",
+        "documentation_url": null,
+        "blogpost_url": "https:\/\/murze.be\/2016\/10\/redirect-missing-pages-in-your-laravel-application\/",
+        "download_count": 14942,
+        "type": "laravel"
+    },
+    {
+        "id": 16,
+        "name": "url",
+        "description": "<p>Parse, build and manipulate URLs<\/p>",
+        "url": "https:\/\/github.com\/spatie\/url",
+        "documentation_url": null,
+        "blogpost_url": "https:\/\/murze.be\/2016\/10\/class-parse-build-manipulate-urls\/",
+        "download_count": 64025,
+        "type": "php"
+    },
+    {
+        "id": 17,
+        "name": "laravel-translation-loader",
+        "description": "<p>Store your translation in the database or other sources.<\/p>",
+        "url": "https:\/\/github.com\/spatie\/laravel-translation-loader",
+        "documentation_url": null,
+        "blogpost_url": "https:\/\/murze.be\/2016\/10\/laravel-package-store-language-lines-database\/",
+        "download_count": 10257,
+        "type": "laravel"
+    },
+    {
+        "id": 18,
+        "name": "opening-hours",
+        "description": "<p>A helper to query and format a set of opening hours.<\/p>",
+        "url": "https:\/\/github.com\/spatie\/opening-hours",
+        "documentation_url": null,
+        "blogpost_url": "https:\/\/murze.be\/2016\/10\/managing-opening-hours-php\/",
+        "download_count": 21101,
+        "type": "php"
+    },
+    {
+        "id": 19,
+        "name": "color",
+        "description": "<p>A little library to deal with color conversions.<\/p>",
+        "url": "https:\/\/github.com\/spatie\/color",
+        "documentation_url": null,
+        "blogpost_url": null,
+        "download_count": 7264,
+        "type": "php"
+    },
+    {
+        "id": 20,
+        "name": "laravel-sitemap",
+        "description": "<p>Create and generate sitemaps with ease.<\/p>",
+        "url": "https:\/\/github.com\/spatie\/laravel-sitemap",
+        "documentation_url": null,
+        "blogpost_url": "https:\/\/murze.be\/2016\/08\/automatically-generate-a-sitemap-in-laravel\/",
+        "download_count": 48260,
+        "type": "laravel"
+    },
+    {
+        "id": 21,
+        "name": "regex",
+        "description": "<p>Making regex great again.<\/p>",
+        "url": "https:\/\/github.com\/spatie\/regex",
+        "documentation_url": null,
+        "blogpost_url": "https:\/\/murze.be\/2016\/08\/package-easily-work-regex-php\/",
+        "download_count": 31535,
+        "type": "php"
+    },
+    {
+        "id": 22,
+        "name": "laravel-collection-macros",
+        "description": "<p>A set of useful Laravel collection macros.<\/p>",
+        "url": "https:\/\/github.com\/spatie\/laravel-collection-macros",
+        "documentation_url": null,
+        "blogpost_url": "https:\/\/murze.be\/2016\/08\/handy-collection-macros",
+        "download_count": 37301,
+        "type": "laravel"
+    },
+    {
+        "id": 23,
+        "name": "ssl-certificate",
+        "description": "<p>Validate SSL certificates.<\/p>",
+        "url": "https:\/\/github.com\/spatie\/ssl-certificate",
+        "documentation_url": null,
+        "blogpost_url": "https:\/\/murze.be\/2016\/07\/validating-ssl-certificates-php\/",
+        "download_count": 18837,
+        "type": "php"
+    },
+    {
+        "id": 24,
+        "name": "laravel-slack-slash-command",
+        "description": "<p>Make a Laravel app respond to a slash command from Slack.<\/p>",
+        "url": "https:\/\/github.com\/spatie\/laravel-slack-slash-command",
+        "documentation_url": "https:\/\/docs.spatie.be\/laravel-slack-slash-command",
+        "blogpost_url": "https:\/\/murze.be\/2016\/07\/building-a-slack-bot-with-laravel\/",
+        "download_count": 11729,
+        "type": "laravel"
+    },
+    {
+        "id": 25,
+        "name": "laravel-cookie-consent",
+        "description": "<p>Make your Laravel app comply with the EU cookie law.<\/p>",
+        "url": "https:\/\/github.com\/spatie\/laravel-cookie-consent",
+        "documentation_url": null,
+        "blogpost_url": "https:\/\/murze.be\/2016\/06\/make-laravel-app-comply-crazy-eu-cookie-law\/",
+        "download_count": 49462,
+        "type": "laravel"
+    },
+    {
+        "id": 26,
+        "name": "laravel-blade-javascript",
+        "description": "<p>A Blade directive to export PHP variables to JavaScript.<\/p>",
+        "url": "https:\/\/github.com\/spatie\/laravel-blade-javascript",
+        "documentation_url": null,
+        "blogpost_url": "https:\/\/murze.be\/2016\/06\/laravel-package-export-php-variables-javascript\/",
+        "download_count": 43905,
+        "type": "laravel"
+    },
+    {
+        "id": 27,
+        "name": "laravel-google-calendar",
+        "description": "<p>Manage events on a Google Calendar.<\/p>",
+        "url": "https:\/\/github.com\/spatie\/laravel-google-calendar",
+        "documentation_url": null,
+        "blogpost_url": "https:\/\/murze.be\/2016\/05\/package-manage-events-google-calendar\/",
+        "download_count": 23541,
+        "type": "laravel"
+    },
+    {
+        "id": 28,
+        "name": "last-fm-now-playing",
+        "description": "<p>Get the info of a track that user is currently playing.<\/p>",
+        "url": "https:\/\/github.com\/spatie\/last-fm-now-playing",
+        "documentation_url": null,
+        "blogpost_url": "https:\/\/murze.be\/2016\/05\/package-determine-track-user-playing\/",
+        "download_count": 3308,
+        "type": "php"
+    },
+    {
+        "id": 29,
+        "name": "packagist-api",
+        "description": "<p>The easiest way to work with the packagist API.<\/p>",
+        "url": "https:\/\/github.com\/spatie\/packagist-api",
+        "documentation_url": null,
+        "blogpost_url": "https:\/\/murze.be\/2016\/05\/getting-package-statistics-packagist\/",
+        "download_count": 3760,
+        "type": "php"
+    },
+    {
+        "id": 30,
+        "name": "laravel-directory-cleanup",
+        "description": "<p>Clean up old files in specified directories.<\/p>",
+        "url": "https:\/\/github.com\/spatie\/laravel-directory-cleanup",
+        "documentation_url": null,
+        "blogpost_url": null,
+        "download_count": 12122,
+        "type": "laravel"
+    },
+    {
+        "id": 31,
+        "name": "laravel-translatable",
+        "description": "<p>Make your Eloquent models multilingual.<\/p>",
+        "url": "https:\/\/github.com\/spatie\/laravel-translatable",
+        "documentation_url": null,
+        "blogpost_url": "https:\/\/murze.be\/2016\/04\/making-eloquent-models-translatable\/",
+        "download_count": 84472,
+        "type": "laravel"
+    },
+    {
+        "id": 32,
+        "name": "valuestore",
+        "description": "<p>Easily store some loose values.<\/p>",
+        "url": "https:\/\/github.com\/spatie\/valuestore",
+        "documentation_url": null,
+        "blogpost_url": "https:\/\/murze.be\/2016\/04\/easily-store-some-values\/",
+        "download_count": 4753,
+        "type": "php"
+    },
+    {
+        "id": 33,
+        "name": "laravel-demo-mode",
+        "description": "<p>Protect your work in progress from prying eyes.<\/p>",
+        "url": "https:\/\/github.com\/spatie\/laravel-demo-mode",
+        "documentation_url": null,
+        "blogpost_url": "https:\/\/murze.be\/2016\/03\/package-protect-work-progress-prying-eyes\/",
+        "download_count": 10632,
+        "type": "laravel"
+    },
+    {
+        "id": 34,
+        "name": "laravel-menu",
+        "description": "<p>Html menu generator for Laravel.<\/p>",
+        "url": "https:\/\/github.com\/spatie\/laravel-menu",
+        "documentation_url": "http:\/\/docs.spatie.be\/menu",
+        "blogpost_url": "https:\/\/murze.be\/2016\/03\/a-modern-package-to-generate-menus\/",
+        "download_count": 43036,
+        "type": "laravel"
+    },
+    {
+        "id": 35,
+        "name": "menu",
+        "description": "<p>Html menu generator.<\/p>",
+        "url": "https:\/\/github.com\/spatie\/menu",
+        "documentation_url": "http:\/\/docs.spatie.be\/menu",
+        "blogpost_url": "https:\/\/murze.be\/2016\/03\/a-modern-package-to-generate-menus\/",
+        "download_count": 47606,
+        "type": "php"
+    },
+    {
+        "id": 36,
+        "name": "html-element",
+        "description": "<p>Html rendering in php inspired by hyperscript.<\/p>",
+        "url": "https:\/\/github.com\/spatie\/html-element",
+        "documentation_url": null,
+        "blogpost_url": null,
+        "download_count": 29453,
+        "type": "php"
+    },
+    {
+        "id": 37,
+        "name": "laravel-model-cleanup",
+        "description": "<p>Clean up expired records from Eloquent models.<\/p>",
+        "url": "https:\/\/github.com\/spatie\/laravel-model-cleanup",
+        "documentation_url": null,
+        "blogpost_url": "https:\/\/murze.be\/2016\/03\/package-clean-models\/",
+        "download_count": 8285,
+        "type": "laravel"
+    },
+    {
+        "id": 38,
+        "name": "laravel-feed",
+        "description": "<p>Easily generate RSS feeds.<\/p>",
+        "url": "https:\/\/github.com\/spatie\/laravel-feed",
+        "documentation_url": null,
+        "blogpost_url": "https:\/\/murze.be\/2016\/03\/a-package-to-easily-generate-feeds-in-laravel\/",
+        "download_count": 13789,
+        "type": "laravel"
+    },
+    {
+        "id": 39,
+        "name": "laravel-failed-job-monitor",
+        "description": "<p>Get notified when a queued job fails.<\/p>",
+        "url": "https:\/\/github.com\/spatie\/laravel-failed-job-monitor",
+        "documentation_url": null,
+        "blogpost_url": "https:\/\/murze.be\/2016\/02\/get-notified-when-a-queued-job-fails\/",
+        "download_count": 69047,
+        "type": "laravel"
+    },
+    {
+        "id": 40,
+        "name": "emoji",
+        "description": "<p>Easily display emoji characters.<\/p>",
+        "url": "https:\/\/github.com\/spatie\/emoji",
+        "documentation_url": null,
+        "blogpost_url": "https:\/\/murze.be\/2016\/02\/using-emoji-in-php\/",
+        "download_count": 25900,
+        "type": "php"
+    },
+    {
+        "id": 41,
+        "name": "db-dumper",
+        "description": "<p>Dump the contents of a database to a file.<\/p>",
+        "url": "https:\/\/github.com\/spatie\/db-dumper",
+        "documentation_url": null,
+        "blogpost_url": "https:\/\/murze.be\/2016\/02\/a-package-to-dump-your-database\/",
+        "download_count": 552570,
+        "type": "php"
+    },
+    {
+        "id": 42,
+        "name": "yaml-front-matter",
+        "description": "<p>A to the point yaml front matter parser.<\/p>",
+        "url": "https:\/\/github.com\/spatie\/yaml-front-matter",
+        "documentation_url": null,
+        "blogpost_url": null,
+        "download_count": 1215,
+        "type": "php"
+    },
+    {
+        "id": 43,
+        "name": "laravel-robots-middleware",
+        "description": "<p>Enable or disable the indexing of your app.<\/p>",
+        "url": "https:\/\/github.com\/spatie\/laravel-robots-middleware",
+        "documentation_url": null,
+        "blogpost_url": "https:\/\/murze.be\/2016\/01\/say-goodbye-to-manually-creating-a-robots-txt-file\/",
+        "download_count": 28998,
+        "type": "laravel"
+    },
+    {
+        "id": 44,
+        "name": "pdf-to-text",
+        "description": "<p>Extract text from a pdf.<\/p>",
+        "url": "https:\/\/github.com\/spatie\/pdf-to-text",
+        "documentation_url": null,
+        "blogpost_url": "https:\/\/murze.be\/2016\/01\/a-package-to-extract-text-from-a-pdf\/",
+        "download_count": 18753,
+        "type": "php"
+    },
+    {
+        "id": 45,
+        "name": "laravel-sluggable",
+        "description": "<p>Generate slugs when saving Eloquent models.<\/p>",
+        "url": "https:\/\/github.com\/spatie\/laravel-sluggable",
+        "documentation_url": null,
+        "blogpost_url": "https:\/\/murze.be\/2015\/12\/a-php-7-laravel-package-to-create-slugs\/",
+        "download_count": 59286,
+        "type": "laravel"
+    },
+    {
+        "id": 46,
+        "name": "laravel-link-checker",
+        "description": "<p>Check if all links in your app work.<\/p>",
+        "url": "https:\/\/github.com\/spatie\/laravel-link-checker",
+        "documentation_url": null,
+        "blogpost_url": null,
+        "download_count": 11747,
+        "type": "laravel"
+    },
+    {
+        "id": 47,
+        "name": "npm-install-peers",
+        "description": "<p>CLI command to install npm peerDependencies.<\/p>",
+        "url": "https:\/\/github.com\/spatie\/npm-install-peers",
+        "documentation_url": null,
+        "blogpost_url": null,
+        "download_count": null,
+        "type": "javascript"
+    },
+    {
+        "id": 48,
+        "name": "emits-change",
+        "description": "<p>Plug-and-play node.js events integration to emit change events.<\/p>",
+        "url": "https:\/\/github.com\/spatie\/emits-change",
+        "documentation_url": null,
+        "blogpost_url": null,
+        "download_count": null,
+        "type": "javascript"
+    },
+    {
+        "id": 49,
+        "name": "viewport-utility",
+        "description": "<p>Front-end utility that updates DOM classes and JS properties for easy access in scripts and stylesheets.<\/p>",
+        "url": "https:\/\/github.com\/spatie\/viewport-utility",
+        "documentation_url": null,
+        "blogpost_url": null,
+        "download_count": null,
+        "type": "javascript"
+    },
+    {
+        "id": 50,
+        "name": "crawler",
+        "description": "<p>A class to crawl all links found on a website.<\/p>",
+        "url": "https:\/\/github.com\/spatie\/crawler",
+        "documentation_url": null,
+        "blogpost_url": "https:\/\/murze.be\/2015\/11\/building-a-crawler-in-php\/",
+        "download_count": 68436,
+        "type": "php"
+    },
+    {
+        "id": 51,
+        "name": "laravel-pjax",
+        "description": "<p>A pjax middleware for Laravel 5.<\/p>",
+        "url": "https:\/\/github.com\/spatie\/laravel-pjax",
+        "documentation_url": null,
+        "blogpost_url": "https:\/\/murze.be\/2015\/10\/a-pjax-middleware-for-laravel-5\/",
+        "download_count": 70265,
+        "type": "laravel"
+    },
+    {
+        "id": 52,
+        "name": "laravel-fractal",
+        "description": "<p>A Fractal service provider for Laravel 5 and Lumen.<\/p>",
+        "url": "https:\/\/github.com\/spatie\/laravel-fractal",
+        "documentation_url": null,
+        "blogpost_url": "https:\/\/murze.be\/2015\/10\/a-fractal-service-provider-for-laravel\/",
+        "download_count": 574407,
+        "type": "laravel"
+    },
+    {
+        "id": 53,
+        "name": "laravel-authorize",
+        "description": "<p>A middleware to check authorization.<\/p>",
+        "url": "https:\/\/github.com\/spatie\/laravel-authorize",
+        "documentation_url": null,
+        "blogpost_url": null,
+        "download_count": 8769,
+        "type": "laravel"
+    },
+    {
+        "id": 54,
+        "name": "laravel-permission",
+        "description": "<p>Associate users with roles and permissions.<\/p>",
+        "url": "https:\/\/github.com\/spatie\/laravel-permission",
+        "documentation_url": null,
+        "blogpost_url": "https:\/\/murze.be\/2015\/09\/a-package-to-add-roles-and-permissions-to-laravel\/",
+        "download_count": 482789,
+        "type": "laravel"
+    },
+    {
+        "id": 55,
+        "name": "laravel-url-signer",
+        "description": "<p>Create and validate signed URLs with a limited lifetime.<\/p>",
+        "url": "https:\/\/github.com\/spatie\/laravel-url-signer",
+        "documentation_url": null,
+        "blogpost_url": "https:\/\/murze.be\/2015\/08\/url-signing-in-laravel\/",
+        "download_count": 50973,
+        "type": "laravel"
+    },
+    {
+        "id": 56,
+        "name": "url-signer",
+        "description": "<p>Creates and validate signed URLs with a limited lifetime.<\/p>",
+        "url": "https:\/\/github.com\/spatie\/url-signer",
+        "documentation_url": null,
+        "blogpost_url": null,
+        "download_count": 54545,
+        "type": "php"
+    },
+    {
+        "id": 57,
+        "name": "laravel-backup",
+        "description": "<p>Backup your application and database to any filesystem you like.<\/p>",
+        "url": "https:\/\/github.com\/spatie\/laravel-backup",
+        "documentation_url": "https:\/\/docs.spatie.be\/laravel-backup",
+        "blogpost_url": "https:\/\/murze.be\/2016\/09\/taking-care-of-backups-with-laravel\/",
+        "download_count": 660714,
+        "type": "laravel"
+    },
+    {
+        "id": 58,
+        "name": "laravel-medialibrary",
+        "description": "<p>Associate files with Eloquent models. Additionally the package can create image\n                    manipulations on images and pdfs that have been added in the medialibrary.<\/p>",
+        "url": "https:\/\/github.com\/spatie\/laravel-medialibrary",
+        "documentation_url": "https:\/\/docs.spatie.be\/laravel-medialibrary",
+        "blogpost_url": null,
+        "download_count": 351429,
+        "type": "laravel"
+    },
+    {
+        "id": 59,
+        "name": "laravel-newsletter",
+        "description": "<p>Subscribe users to MailChimp newsletters.<\/p>",
+        "url": "https:\/\/github.com\/spatie\/laravel-newsletter",
+        "documentation_url": null,
+        "blogpost_url": "https:\/\/murze.be\/2016\/04\/easily-integrate-mailchimp-laravel-5\/",
+        "download_count": 279009,
+        "type": "laravel"
+    },
+    {
+        "id": 60,
+        "name": "laravel-responsecache",
+        "description": "<p>Improve the performance of your app by caching the entire response.",
+        "url": "https:\/\/github.com\/spatie\/laravel-responsecache",
+        "documentation_url": null,
+        "blogpost_url": "https:\/\/murze.be\/2015\/07\/speed-up-a-laravel-app-by-caching-the-entire-response\/",
+        "download_count": 77186,
+        "type": "laravel"
+    },
+    {
+        "id": 61,
+        "name": "laravel-paginateroute",
+        "description": "<p>Generate pretty url's for paginated pages.<\/p>",
+        "url": "https:\/\/github.com\/spatie\/laravel-paginateroute",
+        "documentation_url": null,
+        "blogpost_url": null,
+        "download_count": 15291,
+        "type": "laravel"
+    },
+    {
+        "id": 62,
+        "name": "laravel-glide",
+        "description": "<p>Integrate <a href=\"http:\/\/glide.thephpleague.com\/\">Glide<\/a> with Laravel.<\/p>",
+        "url": "https:\/\/github.com\/spatie\/laravel-glide",
+        "documentation_url": null,
+        "blogpost_url": null,
+        "download_count": 240016,
+        "type": "laravel"
+    },
+    {
+        "id": 63,
+        "name": "pdf-to-image",
+        "description": "<p>Convert pdf's to images.<\/p>",
+        "url": "https:\/\/github.com\/spatie\/pdf-to-image",
+        "documentation_url": null,
+        "blogpost_url": null,
+        "download_count": 415077,
+        "type": "php"
+    },
+    {
+        "id": 64,
+        "name": "laravel-analytics",
+        "description": "<p>Fetch data from Google Analytics.<\/p>",
+        "url": "https:\/\/github.com\/spatie\/laravel-analytics",
+        "documentation_url": null,
+        "blogpost_url": "https:\/\/murze.be\/2016\/06\/retrieve-google-analytics-date-laravel\/",
+        "download_count": 256500,
+        "type": "laravel"
+    },
+    {
+        "id": 65,
+        "name": "laravel-googletagmanager",
+        "description": "<p>Integrate <a href=\"https:\/\/www.google.com\/tagmanager\/\">Google Tag Manager<\/a> with your Laravel app.<\/p>",
+        "url": "https:\/\/github.com\/spatie\/laravel-googletagmanager",
+        "documentation_url": null,
+        "blogpost_url": null,
+        "download_count": 122207,
+        "type": "laravel"
+    },
+    {
+        "id": 66,
+        "name": "laravel-littlegatekeeper",
+        "description": "<p>Protect pages with a universal username\/password combination.<\/p>",
+        "url": "https:\/\/github.com\/spatie\/laravel-littlegatekeeper",
+        "documentation_url": null,
+        "blogpost_url": null,
+        "download_count": 214,
+        "type": "laravel"
+    },
+    {
+        "id": 67,
+        "name": "geocoder",
+        "description": "<p>Convert addresses to coordinates.<\/p>",
+        "url": "https:\/\/github.com\/spatie\/geocoder",
+        "documentation_url": null,
+        "blogpost_url": null,
+        "download_count": 21420,
+        "type": "php"
+    },
+    {
+        "id": 68,
+        "name": "string",
+        "description": "<p>A collection of useful string functions.<\/p>",
+        "url": "https:\/\/github.com\/spatie\/string",
+        "documentation_url": null,
+        "blogpost_url": null,
+        "download_count": 477186,
+        "type": "php"
+    },
+    {
+        "id": 69,
+        "name": "laravel-activitylog",
+        "description": "<p>Log the activities of your users.<\/p>",
+        "url": "https:\/\/github.com\/spatie\/laravel-activitylog",
+        "documentation_url": "http:\/\/docs.spatie.be\/laravel-activitylog",
+        "blogpost_url": "https:\/\/murze.be\/2016\/06\/package-log-activity-laravel-app\/",
+        "download_count": 277109,
+        "type": "laravel"
+    },
+    {
+        "id": 70,
+        "name": "laravel-partialcache",
+        "description": "<p>A Blade directive to cache view partials.<\/p>",
+        "url": "https:\/\/github.com\/spatie\/laravel-partialcache",
+        "documentation_url": null,
+        "blogpost_url": null,
+        "download_count": 35054,
+        "type": "laravel"
+    },
+    {
+        "id": 71,
+        "name": "laravel-or-abort",
+        "description": "<p>A trait to add abortable behaviour to any class.<\/p>",
+        "url": "https:\/\/github.com\/spatie\/laravel-or-abort",
+        "documentation_url": null,
+        "blogpost_url": null,
+        "download_count": 2935,
+        "type": "laravel"
+    },
+    {
+        "id": 72,
+        "name": "array-functions",
+        "description": "<p>A collection of handy array functions.<\/p>",
+        "url": "https:\/\/github.com\/spatie\/array-functions",
+        "documentation_url": null,
+        "blogpost_url": null,
+        "download_count": 7309,
+        "type": "php"
+    },
+    {
+        "id": 73,
+        "name": "browsershot",
+        "description": "<p>Convert a webpage to an image.<\/p>",
+        "url": "https:\/\/github.com\/spatie\/browsershot",
+        "documentation_url": null,
+        "blogpost_url": "https:\/\/murze.be\/2017\/07\/easily-covert-webpages-to-images-using-php\/",
+        "download_count": 55541,
+        "type": "php"
+    },
+    {
+        "id": 74,
+        "name": "eloquent-sortable",
+        "description": "<p>Add sortable behaviour to Eloquent models.<\/p>",
+        "url": "https:\/\/github.com\/spatie\/eloquent-sortable",
+        "documentation_url": null,
+        "blogpost_url": null,
+        "download_count": 102374,
+        "type": "laravel"
+    },
+    {
+        "id": 75,
+        "name": "laravel-tail",
+        "description": "<p>The tail command was removed from Laravel 5. Millions cried. This\n                 package brings it back!<\/p>",
+        "url": "https:\/\/github.com\/spatie\/laravel-tail",
+        "documentation_url": null,
+        "blogpost_url": null,
+        "download_count": 177218,
+        "type": "laravel"
+    },
+    {
+        "id": 76,
+        "name": "ssl-certificate-chain-resolver",
+        "description": "<p>Fetch the entire trust chain for an ssl certificate.<\/p>",
+        "url": "https:\/\/github.com\/spatie\/ssl-certificate-chain-resolver",
+        "documentation_url": null,
+        "blogpost_url": null,
+        "download_count": 568,
+        "type": "php"
+    },
+    {
+        "id": 77,
+        "name": "laravel-referer",
+        "description": "<p>Remember a visitor's original referer.<\/p>",
+        "url": "https:\/\/github.com\/spatie\/laravel-referer",
+        "documentation_url": "https:\/\/murze.be\/2017\/02\/package-remember-visitors-original-referer\/",
+        "blogpost_url": null,
+        "download_count": 4144,
+        "type": "laravel"
+    },
+    {
+        "id": 78,
+        "name": "image",
+        "description": "<p>Manipulate images with an expressive API<\/p>",
+        "url": "https:\/\/github.com\/spatie\/image",
+        "documentation_url": "https:\/\/docs.spatie.be\/image\/v1\/introduction",
+        "blogpost_url": "https:\/\/murze.be\/2017\/02\/package-easily-manipulate-images-php\/",
+        "download_count": 161397,
+        "type": "php"
+    },
+    {
+        "id": 79,
+        "name": "laravel-server-monitor",
+        "description": "<p>Monitor the health of your servers.<\/p>",
+        "url": "https:\/\/github.com\/spatie\/laravel-server-monitor",
+        "documentation_url": "https:\/\/github.com\/spatie\/laravel-server-monitor",
+        "blogpost_url": "https:\/\/murze.be\/2017\/03\/monitoring-server-health-using-php\/",
+        "download_count": 2563,
+        "type": "laravel"
+    },
+    {
+        "id": 80,
+        "name": "blink",
+        "description": "<p>Cache that expires in the blink of an eye.<\/p>",
+        "url": "https:\/\/github.com\/spatie\/blink",
+        "documentation_url": null,
+        "blogpost_url": null,
+        "download_count": 8480,
+        "type": "php"
+    },
+    {
+        "id": 81,
+        "name": "laravel-blink",
+        "description": "<p>Cache that expires in the blink of an eye.<\/p>",
+        "url": "https:\/\/github.com\/spatie\/laravel-blink",
+        "documentation_url": null,
+        "blogpost_url": null,
+        "download_count": 8481,
+        "type": "laravel"
+    },
+    {
+        "id": 82,
+        "name": "laravel-db-snapshots",
+        "description": "<p>Quickly dump and load databases.<\/p>",
+        "url": "https:\/\/github.com\/spatie\/laravel-db-snapshots",
+        "documentation_url": null,
+        "blogpost_url": "https:\/\/murze.be\/2017\/03\/laravel-package-quickly-dump-load-database\/",
+        "download_count": 14390,
+        "type": "laravel"
+    },
+    {
+        "id": 83,
+        "name": "phpunit-snapshot-assertions",
+        "description": "<p>A way to test without writing actual test\u00a0cases.<\/p>",
+        "url": "https:\/\/github.com\/spatie\/phpunit-snapshot-assertions",
+        "documentation_url": null,
+        "blogpost_url": "https:\/\/medium.com\/@sebdedeyne\/a-package-for-snapshot-testing-in-phpunit-2e4558c07fe3",
+        "download_count": 83582,
+        "type": "php"
+    },
+    {
+        "id": 84,
+        "name": "laravel-html",
+        "description": "<p>Painless html generation.<\/p>",
+        "url": "https:\/\/github.com\/spatie\/laravel-html",
+        "documentation_url": "https:\/\/docs.spatie.be\/laravel-html\/v1\/introduction",
+        "blogpost_url": "https:\/\/murze.be\/2017\/04\/conversation-laravel-html\/",
+        "download_count": 15215,
+        "type": "laravel"
+    },
+    {
+        "id": 85,
+        "name": "dropbox-api",
+        "description": "<p>A minimal implementation of Dropbox API v2.<\/p>",
+        "url": "https:\/\/github.com\/spatie\/dropbox-api",
+        "documentation_url": null,
+        "blogpost_url": "https:\/\/murze.be\/2017\/04\/dropbox-will-turn-off-v1-of-their-api-soon-its-time-to-update-your-php-application\/",
+        "download_count": 51228,
+        "type": "php"
+    },
+    {
+        "id": 86,
+        "name": "flysystem-dropbox",
+        "description": "<p>A Flysystem adapter for Dropbox that uses v2 of the API.<\/p>",
+        "url": "https:\/\/github.com\/spatie\/flysystem-dropbox",
+        "documentation_url": null,
+        "blogpost_url": "https:\/\/murze.be\/2017\/04\/dropbox-will-turn-off-v1-of-their-api-soon-its-time-to-update-your-php-application\/",
+        "download_count": 49685,
+        "type": "php"
+    },
+    {
+        "id": 87,
+        "name": "email-concealer",
+        "description": "<p>Conceal e-mail addresses in a string by replacing their domain.<\/p>",
+        "url": "https:\/\/github.com\/spatie\/email-concealer",
+        "documentation_url": null,
+        "blogpost_url": null,
+        "download_count": 23,
+        "type": "php"
+    },
+    {
+        "id": 88,
+        "name": "email-concealer-cli",
+        "description": "<p>CLI tool for concealing e-mails in a file by replacing their domain.<\/p>",
+        "url": "https:\/\/github.com\/spatie\/email-concealer-cli",
+        "documentation_url": null,
+        "blogpost_url": null,
+        "download_count": 3,
+        "type": "php"
+    },
+    {
+        "id": 89,
+        "name": "vue-tabs-component",
+        "description": "<p>An easy way to display tabs with Vue.<\/p>",
+        "url": "https:\/\/github.com\/spatie\/vue-tabs-component",
+        "documentation_url": null,
+        "blogpost_url": "https:\/\/murze.be\/2017\/05\/vue-component-display-tabs\/",
+        "download_count": null,
+        "type": "javascript"
+    },
+    {
+        "id": 90,
+        "name": "laravel-artisan-dd",
+        "description": "<p>Quickly dd anything from the commandline.<\/p>",
+        "url": "https:\/\/github.com\/spatie\/laravel-artisan-dd",
+        "documentation_url": null,
+        "blogpost_url": "https:\/\/murze.be\/2017\/05\/quickly-dd-anything-commandline\/",
+        "download_count": 20861,
+        "type": "laravel"
+    },
+    {
+        "id": 91,
+        "name": "laravel-tinker-tools",
+        "description": "<p>Use short class names in an Artisan tinker session.<\/p>",
+        "url": "https:\/\/github.com\/spatie\/laravel-tinker-tools",
+        "documentation_url": null,
+        "blogpost_url": "https:\/\/murze.be\/2017\/05\/package-enable-short-class-names-artisan-tinker-session\/",
+        "download_count": 43073,
+        "type": "laravel"
+    },
+    {
+        "id": 92,
+        "name": "laravel-json-api-paginate",
+        "description": "<p>A paginator that plays nice with the JSON API spec.<\/p>",
+        "url": "https:\/\/github.com\/spatie\/laravel-json-api-paginate",
+        "documentation_url": null,
+        "blogpost_url": null,
+        "download_count": 4007,
+        "type": "laravel"
+    },
+    {
+        "id": 93,
+        "name": "image-optimizer",
+        "description": "<p>Easily optimize all sorts of images using PHP.<\/p>",
+        "url": "https:\/\/github.com\/spatie\/image-optimizer",
+        "documentation_url": null,
+        "blogpost_url": "https:\/\/murze.be\/2017\/07\/easily-optimize-images-using-php-binaries\/",
+        "download_count": 139744,
+        "type": "php"
+    },
+    {
+        "id": 94,
+        "name": "laravel-image-optimizer",
+        "description": "<p>Optimize image in your Laravel app.<\/p>",
+        "url": "https:\/\/github.com\/spatie\/laravel-image-optimizer",
+        "documentation_url": null,
+        "blogpost_url": "https:\/\/murze.be\/2017\/07\/optimize-images-laravel-apps\/",
+        "download_count": 13290,
+        "type": "laravel"
+    },
+    {
+        "id": 95,
+        "name": "phpunit-watcher",
+        "description": "<p>Automatically rerun PHPUnit tests when source code changes.<\/p>",
+        "url": "https:\/\/github.com\/spatie\/phpunit-watcher\/",
+        "documentation_url": null,
+        "blogpost_url": "https:\/\/murze.be\/2017\/08\/tool-automatically-rerun-phpunit-tests-source-code-changes\/",
+        "download_count": 8758,
+        "type": "php"
+    },
+    {
+        "id": 96,
+        "name": "macroable",
+        "description": "<p>A trait to dynamically add methods to a class<\/p>",
+        "url": "https:\/\/github.com\/spatie\/macroable",
+        "documentation_url": null,
+        "blogpost_url": "https:\/\/murze.be\/2017\/09\/trait-dynamically-add-methods-class\/",
+        "download_count": 34762,
+        "type": "php"
+    },
+    {
+        "id": 97,
+        "name": "calendar-links",
+        "description": "<p>Generate add to calendar links for Google, iCal and other calendar systems<\/p>",
+        "url": "https:\/\/github.com\/spatie\/calendar-links",
+        "documentation_url": null,
+        "blogpost_url": null,
+        "download_count": 375,
+        "type": "php"
+    },
+    {
+        "id": 98,
+        "name": "laravel-stripe-webhooks",
+        "description": "<p>Handle Stripe webhooks in a Laravel application.<\/p>",
+        "url": "https:\/\/github.com\/spatie\/laravel-stripe-webhooks",
+        "documentation_url": null,
+        "blogpost_url": "https:\/\/murze.be\/2017\/10\/handling-stripe-webhooks-laravel-application\/",
+        "download_count": 1744,
+        "type": "laravel"
+    },
+    {
+        "id": 99,
+        "name": "laravel-http-logger",
+        "description": "<p>Log HTTP requests in Laravel applications.<\/p>",
+        "url": "https:\/\/github.com\/spatie\/laravel-http-logger",
+        "documentation_url": null,
+        "blogpost_url": null,
+        "download_count": 1376,
+        "type": "laravel"
+    },
+    {
+        "id": 100,
+        "name": "laravel-binary-uuid",
+        "description": "<p>Use optimised binary UUIDs in Laravel<\/p>",
+        "url": "https:\/\/github.com\/spatie\/laravel-binary-uuid",
+        "documentation_url": null,
+        "blogpost_url": null,
+        "download_count": 426,
+        "type": "laravel"
+    },
+    {
+        "id": 101,
+        "name": "laravel-cors",
+        "description": "<p>Set CORS headers in a Laravel application<\/p>",
+        "url": "https:\/\/github.com\/spatie\/laravel-cors",
+        "documentation_url": null,
+        "blogpost_url": null,
+        "download_count": 890,
+        "type": "laravel"
+    }
+]
