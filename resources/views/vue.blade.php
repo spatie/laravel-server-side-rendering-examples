@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>Laravel + Vue ssr example</title>
+        <title>Laravel + Vue server side rendering example</title>
         <link rel="stylesheet" href="{{ mix('css/app.css') }}">
     </head>
     <body class="bg-paper font-sans leading-normal text-grey-darkest border-t-4 border-orange-light">
