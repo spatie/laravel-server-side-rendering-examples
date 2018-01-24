@@ -9,5 +9,5 @@ renderVueComponentToString(app, (err, html) => {
     if (err) {
         throw new Error(err);
     }
-    console.log(html);
+    dispatch(html);
 });

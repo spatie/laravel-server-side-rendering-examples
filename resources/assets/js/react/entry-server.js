@@ -11,4 +11,4 @@ const html = ReactDOMServer.renderToString(
     </div>
 );
 
-console.log(html);
+dispatch(html);
