@@ -1,6 +1,5 @@
 import React from 'react';
 import uniq from 'lodash/uniq';
-import { connect } from 'react-redux';
 import { Link } from 'react-router-dom';
 
 const Home = ({ packages }) => {
@@ -34,11 +33,4 @@ const Home = ({ packages }) => {
     );
 };
 
-// HomeContainer.js
-const mapStateToProps = (state, ownProps) => ({
-    packages: state.packages,
-});
-
-const HomeContainer = connect(mapStateToProps)(Home);
-
-export default HomeContainer;
+export default Home;

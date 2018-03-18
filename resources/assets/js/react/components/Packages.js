@@ -1,5 +1,4 @@
 import React from 'react';
-import { connect } from 'react-redux';
 import { Link } from 'react-router-dom';
 
 function packageList(packages) {
@@ -34,12 +33,4 @@ const Packages = ({ match, packages }) => {
         </div>
     );
 };
-
-// PackagesContainer.js
-const mapStateToProps = (state, ownProps) => ({
-    packages: state.packages,
-});
-
-const PackagesContainer = connect(mapStateToProps)(Packages);
-
-export default PackagesContainer;
+export default Packages;
