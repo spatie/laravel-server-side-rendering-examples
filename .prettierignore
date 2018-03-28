@@ -1,4 +1,4 @@
-public/
-vendor/
-storage/
-resources/assets/js/back/redactor/
+/public
+/storage
+/tailwind.js
+/vendor

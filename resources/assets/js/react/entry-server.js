@@ -1,3 +1,5 @@
+/* global context, dispatch */
+
 import App from './app';
 import React from 'react';
 import ReactDOMServer from 'react-dom/server';

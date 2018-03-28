@@ -1,3 +1,5 @@
+/* global context, dispatch */
+
 import app from './app';
 import renderVueComponentToString from 'vue-server-renderer/basic';
 

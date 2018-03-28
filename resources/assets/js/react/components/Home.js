@@ -24,7 +24,7 @@ const Home = ({ packages }) => {
                     type.
                 </p>
                 <p>
-                    We're using react-router for this page so each package type has its own
+                    We&apos;re using react-router for this page so each package type has its own
                     permalink, and will be prerendered on the server if visited directly.
                 </p>
             </section>

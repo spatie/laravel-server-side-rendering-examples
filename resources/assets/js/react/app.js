@@ -1,7 +1,7 @@
 import React from 'react';
 import Home from './components/Home';
 import Packages from './components/Packages';
-import { Route, Link } from 'react-router-dom';
+import { Route } from 'react-router-dom';
 
 const App = ({ packages }) => (
     <div className="max-w-md mt-8 sm:mt-16 mx-auto px-8">
