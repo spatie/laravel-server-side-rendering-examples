@@ -409,16 +409,16 @@
         },
         {
             "name": "laravel/framework",
-            "version": "v5.5.37",
+            "version": "v5.5.39",
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel/framework.git",
-                "reference": "cf750b00c77d0d73e889c86f7db6a0e13b8dea8c"
+                "reference": "a21ef7e51df831a7c38d24dcf8c4774ee0847526"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravel/framework/zipball/cf750b00c77d0d73e889c86f7db6a0e13b8dea8c",
-                "reference": "cf750b00c77d0d73e889c86f7db6a0e13b8dea8c",
+                "url": "https://api.github.com/repos/laravel/framework/zipball/a21ef7e51df831a7c38d24dcf8c4774ee0847526",
+                "reference": "a21ef7e51df831a7c38d24dcf8c4774ee0847526",
                 "shasum": ""
             },
             "require": {
@@ -429,7 +429,7 @@
                 "league/flysystem": "~1.0",
                 "monolog/monolog": "~1.12",
                 "mtdowling/cron-expression": "~1.0",
-                "nesbot/carbon": "~1.20",
+                "nesbot/carbon": "^1.24.1",
                 "php": ">=7.0",
                 "psr/container": "~1.0",
                 "psr/simple-cache": "^1.0",
@@ -539,7 +539,7 @@
                 "framework",
                 "laravel"
             ],
-            "time": "2018-03-07T14:11:09+00:00"
+            "time": "2018-03-09T17:24:53+00:00"
         },
         {
             "name": "laravel/tinker",
@@ -812,20 +812,20 @@
         },
         {
             "name": "nesbot/carbon",
-            "version": "1.23.0",
+            "version": "1.25.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/briannesbitt/Carbon.git",
-                "reference": "4a874a39b2b00d7e0146cd46fab6f47c41ce9e65"
+                "reference": "cbcf13da0b531767e39eb86e9687f5deba9857b4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/briannesbitt/Carbon/zipball/4a874a39b2b00d7e0146cd46fab6f47c41ce9e65",
-                "reference": "4a874a39b2b00d7e0146cd46fab6f47c41ce9e65",
+                "url": "https://api.github.com/repos/briannesbitt/Carbon/zipball/cbcf13da0b531767e39eb86e9687f5deba9857b4",
+                "reference": "cbcf13da0b531767e39eb86e9687f5deba9857b4",
                 "shasum": ""
             },
             "require": {
-                "php": ">=5.3.0",
+                "php": ">=5.3.9",
                 "symfony/translation": "~2.6 || ~3.0 || ~4.0"
             },
             "require-dev": {
@@ -861,7 +861,7 @@
                 "datetime",
                 "time"
             ],
-            "time": "2018-02-28T09:22:05+00:00"
+            "time": "2018-03-19T15:50:49+00:00"
         },
         {
             "name": "nikic/php-parser",
@@ -1260,16 +1260,16 @@
         },
         {
             "name": "spatie/laravel-server-side-rendering",
-            "version": "0.2.3",
+            "version": "0.2.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/spatie/laravel-server-side-rendering.git",
-                "reference": "de810269243ffde9a4a64ca854209026fee3258c"
+                "reference": "0bd142b71c3944d7002ee7783f94c79b63edf3c4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/spatie/laravel-server-side-rendering/zipball/de810269243ffde9a4a64ca854209026fee3258c",
-                "reference": "de810269243ffde9a4a64ca854209026fee3258c",
+                "url": "https://api.github.com/repos/spatie/laravel-server-side-rendering/zipball/0bd142b71c3944d7002ee7783f94c79b63edf3c4",
+                "reference": "0bd142b71c3944d7002ee7783f94c79b63edf3c4",
                 "shasum": ""
             },
             "require": {
@@ -1278,8 +1278,8 @@
                 "spatie/server-side-rendering": "^0.2"
             },
             "require-dev": {
-                "orchestra/testbench": "~3.5",
-                "phpunit/phpunit": "^6.0"
+                "orchestra/testbench": "~3.5|~3.6",
+                "phpunit/phpunit": "^6.0|^7.0"
             },
             "type": "library",
             "extra": {
@@ -1319,20 +1319,20 @@
                 "laravel-server-side-rendering",
                 "spatie"
             ],
-            "time": "2018-03-09T11:53:26+00:00"
+            "time": "2018-03-28T08:35:40+00:00"
         },
         {
             "name": "spatie/server-side-rendering",
-            "version": "0.2.2",
+            "version": "0.2.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/spatie/server-side-rendering.git",
-                "reference": "777b54cf4dfa228a320d6854c573c973fa62b452"
+                "reference": "eb0c98ef957ea2cc9dd5fa261f6bfec2f8545e95"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/spatie/server-side-rendering/zipball/777b54cf4dfa228a320d6854c573c973fa62b452",
-                "reference": "777b54cf4dfa228a320d6854c573c973fa62b452",
+                "url": "https://api.github.com/repos/spatie/server-side-rendering/zipball/eb0c98ef957ea2cc9dd5fa261f6bfec2f8545e95",
+                "reference": "eb0c98ef957ea2cc9dd5fa261f6bfec2f8545e95",
                 "shasum": ""
             },
             "require": {
@@ -1367,7 +1367,7 @@
                 "server-side-rendering",
                 "spatie"
             ],
-            "time": "2018-02-13T13:32:10+00:00"
+            "time": "2018-03-27T15:07:12+00:00"
         },
         {
             "name": "swiftmailer/swiftmailer",
