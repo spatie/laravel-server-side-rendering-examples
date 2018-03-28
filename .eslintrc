@@ -14,6 +14,7 @@
         "jest": true
     },
     "rules": {
-        "react/prop-types": "off"
+        "react/prop-types": "off",
+        "vue/html-indent": ["error", 4]
     }
 }

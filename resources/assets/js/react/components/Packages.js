@@ -1,8 +1,8 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
+import { sortBy } from 'lodash';
 
 function packageList(packages) {
-    return packages.map(p => (
+    return sortBy(packages, 'name').map(p => (
         <li key={p.id}>
             <a
                 href={p.url}
@@ -25,9 +25,6 @@ const Packages = ({ match, packages }) => {
 
     return (
         <div>
-            <Link to="/react/" className="text-xs text-grey-light inline-block mb-2">
-                ← <span className="underline">Back</span>
-            </Link>
             <h1>{type} packages by Spatie</h1>
             <ul className="list-reset">{packageList(listPackages)}</ul>
         </div>

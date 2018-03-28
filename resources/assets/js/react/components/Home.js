@@ -4,6 +4,7 @@ import { Link } from 'react-router-dom';
 
 const Home = ({ packages }) => {
     const types = uniq(packages.map(p => p.type)).sort();
+
     const listTypes = types.map((type, index) => (
         <Link
             to={`/react/packages/${type}`}

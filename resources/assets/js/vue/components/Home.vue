@@ -28,7 +28,7 @@
 export default {
     computed: {
         types() {
-            return this.$store.getters.types.sort();
+            return this.$store.getters.types;
         },
     },
 };

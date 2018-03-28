@@ -10,7 +10,7 @@ export default new Store({
     },
 
     getters: {
-        types: state => uniq(state.packages.map(p => p.type)),
+        types: state => uniq(state.packages.map(p => p.type)).sort(),
 
         packagesWithType: state => type => state.packages.filter(p => p.type === type),
     },

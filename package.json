@@ -9,7 +9,7 @@
         "prod": "npm run production",
         "production": "cross-env NODE_ENV=production node_modules/webpack/bin/webpack.js --no-progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js",
         "format": "prettier --write \"resources/assets/**/*.{css,js,vue}\"",
-        "lint": "eslint resources/assets/js"
+        "lint": "eslint resources/assets/js --fix --ext js,vue"
     },
     "dependencies": {
         "axios": "^0.17.1",
